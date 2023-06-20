@@ -1,3 +1,6 @@
+CREATE TABLE EMPLOYEE (ENO  INT, NAME VARCHAR(45) , GENDER VARCHAR(1), DEPARTMENT VARCHAR(45) DEFAULT NULL, SALARY INT,PRIMARY KEY (`ENO`))  
+
+
 index.html
 
 <!DOCTYPE html> 
@@ -23,6 +26,9 @@ index.html
 </body> 
 </html> 
  *********************************************************
+Step 3: Add external jar to classpath ( servlet-api.jar, mysql-connector-j-8.0.32.jar) 
+
+
 insertData.jsp
  <%@ page language="java" contentType="text/html; charset=ISO-8859-1" 
     pageEncoding="ISO-8859-1"%> 
