@@ -23,6 +23,7 @@ index.html
 </body> 
 </html> 
  *********************************************************
+insertData.jsp
  <%@ page language="java" contentType="text/html; charset=ISO-8859-1" 
     pageEncoding="ISO-8859-1"%> 
 <!DOCTYPE html> 
@@ -36,7 +37,7 @@ index.html
 <% 
 int uq=0; 
 Class.forName("com.mysql.jdbc.Driver");  
-Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/demo","root","Pavan@1989"); 
+Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/demo","root","Password"); 
 PreparedStatement pstatement = con.prepareStatement("INSERT INTO employee VALUES(?, ?, ?, ?, ?)"); 
 pstatement.setInt(1, Integer.valueOf(request.getParameter("eno"))); 
 pstatement.setString(2, request.getParameter("ename")); 
