@@ -149,3 +149,7 @@ web.xml
 <servlet-name>Logout</servlet-name> <servlet-class>controler.Logout</servlet-class> </servlet>
 <servlet-mapping> <servlet-name>Logout</servlet-name> <url-pattern>/Logout</url-pattern> </servlet-mapping>
 </web-app>
+
+******************************************************************************************
+******************************************************************************************
+everything in dynamic web project
