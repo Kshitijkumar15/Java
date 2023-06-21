@@ -28,7 +28,7 @@ index.html
  *********************************************************
 Step 3: Add external jar to classpath ( servlet-api.jar, mysql-connector-j-8.0.32.jar) 
 
-
+*********************************************************
 insertData.jsp
  <%@ page language="java" contentType="text/html; charset=ISO-8859-1" 
     pageEncoding="ISO-8859-1"%> 
@@ -85,3 +85,6 @@ while(rs.next())
 </table> 
 </body> 
 </html> 
+*********************************************************
+*********************************************************
+do everything in dyamic web project.
