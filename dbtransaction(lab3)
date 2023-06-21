@@ -67,3 +67,5 @@ con.close();
 }catch(Exception e){ System.out.println(e);}   
 }   
 } 
+*******************************************************************************
+create scema in my sql workbench and then connect it the code
