@@ -257,3 +257,23 @@ Insert.html
 </form>
 </body>
 </html>
+**********************************************************************************************************
+**********************************************************************************************************
+STEP 1: CREATE PACKAGE
+STEP 2:NEW> HTML FILE(INSERT.HTML)
+STEP 3:ADD SERVER FROM SERVER SECTION> SELECT TOMCAT 10.1 DO THE STEPS.
+STEP 4:ADD SERVER AND MYSQL CONNECTOR JAR FILES (IN BUILD PATH).
+STEP 5:CREATE SERVLET AND GIVE PACKAGE NAME AND CLASS NAME AS INSERTATA> SELECT ONLY DO POST METHOD
+STEP 6:REPLACE JAVAX WITH JAKARTA
+STEP 7:DO WEB.XML
+STEP 8:OPEN MYSQL WORKBENCH >CREATE SCHEMA>TABLES EMP AND MARKS. IN MARKS CREATE SUBJEXTS AND LABS.EMP WITH EID AND ENAME.
+STEP 9:CREATE DISPLAYRESULT.JAVA
+STEP 10:ADD <servlet>
+  <servlet-name>DisplayResult</servlet-name>
+  <servlet-class>myServlet.DisplayResult</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  <servlet-name>DisplayResult</servlet-name>
+  <url-pattern>/DisplayResult</url-pattern>
+  </servlet-mapping>
+STEP 11:IN INDEX.HTML ADD FORM ACTION=DISPLAYRESULT
