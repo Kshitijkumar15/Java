@@ -1,4 +1,4 @@
-App.java
+/App.java
 package hibernate;
 
 import org.hibernate.Session; 
