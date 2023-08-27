@@ -1,5 +1,4 @@
-********************************************************
-Student.java 
+//Student.java 
  
 package com.pu; 
  
