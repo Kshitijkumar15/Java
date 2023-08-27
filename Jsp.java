@@ -1,6 +1,7 @@
 CREATE TABLE EMPLOYEE (ENO  INT, NAME VARCHAR(45) , GENDER VARCHAR(1), DEPARTMENT VARCHAR(45) DEFAULT NULL, SALARY INT,PRIMARY KEY (`ENO`))  
 
-
+**********************************************************
+ 
 index.html
 
 <!DOCTYPE html> 
