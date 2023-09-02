@@ -15,7 +15,7 @@
 - Reverse Left Pyramid
 - Servlet
 - Spring
-
+$~~~~$
 ## Hibernate 
 
 ![Java](https://img.shields.io/badge/Java-8%2B-blue.svg)
@@ -79,4 +79,9 @@ Specify any prerequisites that users need to meet to use your project. For examp
 - Apache Tomcat or another servlet container for deployment.
 - MySQL or another database system (if applicable).
 
+
+<div align="Center">
+  
+<b>THE END </b>
+</div>
 
