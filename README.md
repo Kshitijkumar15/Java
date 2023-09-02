@@ -3,6 +3,7 @@
 # JAVA
 </div>
 
+$~~~~$
 ## Table of Contents
 
 - Comparator
@@ -79,7 +80,7 @@ Specify any prerequisites that users need to meet to use your project. For examp
 - Apache Tomcat or another servlet container for deployment.
 - MySQL or another database system (if applicable).
 
-
+$~~~~$
 <div align="Center">
   
 <b>THE END </b>
