@@ -3,7 +3,6 @@
 # JAVA
 </div>
 
-$~~~~$
 ## Table of Contents
 
 - Comparator
