@@ -22,8 +22,6 @@ Specify any prerequisites that users need to meet in order to use your project. 
 
 $~~~~$
 
-
-
 ## Comparator 
 
 ![Java](https://img.shields.io/badge/Java-8%2B-blue.svg)
@@ -39,3 +37,30 @@ List the main features of your Java Comparator program. For example:
 ### Prerequisites
 Specify any prerequisites that users need to meet to use your project. For example:
 - Java 8 or higher installed.
+
+$~~~~$
+
+## Java JSP and MVC Program
+
+![Java](https://img.shields.io/badge/Java-8%2B-blue.svg)
+![JSP](https://img.shields.io/badge/JSP-2.3-red.svg)
+![MVC](https://img.shields.io/badge/MVC-Design%20Pattern-green.svg)
+
+A Java web application built using JavaServer Pages (JSP) and following the Model-View-Controller (MVC) architectural pattern.
+
+
+### Features
+List the main features of your Java JSP and MVC program. For example:
+- Separation of concerns using the MVC pattern.
+- Dynamic web page generation with JSP.
+- Integration with a database (if applicable).
+- Authentication and authorization (if applicable).
+- Example data and interactions.
+
+### Prerequisites
+Specify any prerequisites that users need to meet to use your project. For example:
+- Java 8 or higher installed.
+- Apache Tomcat or another servlet container for deployment.
+- MySQL or another database system (if applicable).
+
+
