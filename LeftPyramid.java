@@ -1,12 +1,4 @@
-Output:
-/* 
-           * 
-         * * 
-       * * * 
-     * * * * 
-   * * * * *
 
-*/
 public class LeftHalfPyramid {
     public static void main(String[] args) {
         int rows = 5; // Number of rows in the pyramid
@@ -26,3 +18,14 @@ public class LeftHalfPyramid {
         }
     }
 }
+
+
+/* 
+Output:
+           * 
+         * * 
+       * * * 
+     * * * * 
+   * * * * *
+
+*/
