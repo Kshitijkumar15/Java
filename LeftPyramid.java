@@ -1,6 +1,5 @@
-/* Output
-Java program to print following pattern.
 Output:
+/* 
            * 
          * * 
        * * * 
@@ -23,7 +22,7 @@ public class LeftHalfPyramid {
                 System.out.print("* ");
             }
             
-            System.out.println(); // Move to the next line
+            System.out.println(); 
         }
     }
 }
