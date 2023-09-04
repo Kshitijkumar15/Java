@@ -3,6 +3,7 @@
 # JAVA
 </div>
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="100"/> 
 ## Table of Contents
 
 - Comparator
