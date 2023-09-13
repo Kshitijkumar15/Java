@@ -3,7 +3,7 @@ import java.util.Arrays;
 
 public class SecondLargest {
     static void Print2Largest(int arr[],int arr_size){
-        int i,First,Second;
+        int i;
         if(arr_size <2){
             System.out.println("invalid");
             return;
